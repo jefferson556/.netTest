@@ -1,0 +1,6 @@
+@Maquinarias_HostAddress = http://localhost:5272
+
+GET {{Maquinarias_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
